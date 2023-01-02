@@ -165,7 +165,4 @@ published the first ever daily weather predictions. It comprises a review of the
 through team cooperation and an explanation of how the weather forecasting system operates 
 with the use of code.
 
-References: 
-• DataQuest. (2022). 55 Fun (and Unique) Python Project Ideas for Beginners in 2022.
-• GitHub. (n.d.). Retrieved from https://www.github.com
-• Harry, C. W. (2020). Python Project For Absolute Beginners.
+
